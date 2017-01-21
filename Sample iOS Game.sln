@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A53F772F-E8C7-6039-B65E-723AA556A6F7}") = "Sample iOS Game", "Assembly-CSharp.csproj", "{2E1D425B-4326-C552-44FB-C4E81EE93945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E1D425B-4326-C552-44FB-C4E81EE93945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1D425B-4326-C552-44FB-C4E81EE93945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1D425B-4326-C552-44FB-C4E81EE93945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1D425B-4326-C552-44FB-C4E81EE93945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
